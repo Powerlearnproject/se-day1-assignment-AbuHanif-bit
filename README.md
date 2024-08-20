@@ -62,6 +62,7 @@ iv. Documentation: Developers create and maintain documentation for the software
 v. Collaboration: Developers work closely with other team members, including QA engineers, designers, and project managers, to ensure that the software meets the required standards and deadlines. They may also interact with stakeholders to clarify requirements and provide technical insights.
 
 2. Quality Assurance (QA) Engineer
+
 Roles and Responsibilities:
 i. Test Planning and Design: QA engineers are responsible for designing test plans and test cases based on the software requirements. They identify key areas of the software to test and determine the types of testing needed (e.g., functional, performance, security).
 ii. Test Execution: QA engineers execute test cases to verify that the software functions as expected. This includes manual testing, where they interact with the software to find defects, and automated testing, where they use tools to run repetitive tests more efficiently.
@@ -70,6 +71,7 @@ iv. Regression Testing: After bugs are fixed, QA engineers perform regression te
 v. Quality Assurance: QA engineers ensure that the final product meets the specified requirements and is free of critical defects before it is released. They may also be involved in performance testing, security testing, and user acceptance testing (UAT) to validate the software's overall quality.
 
 3. Project Manager
+
 Roles and Responsibilities:
 i. Project Planning: The project manager is responsible for planning the project, including defining its scope, objectives, timelines, and resource requirements. They create a project plan that outlines all tasks, milestones, and deliverables.
 ii. Team Coordination: Project managers coordinate the efforts of the entire software engineering team, ensuring that everyone is aligned with the project goals. They facilitate communication between team members, including developers, QA engineers, designers, and stakeholders.
